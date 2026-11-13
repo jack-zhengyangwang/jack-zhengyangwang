@@ -111,7 +111,8 @@ Machine-learning model predicting Valorant round outcomes from in-game state, bu
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jack-zhengyangwang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1d2a&title_color=1f8a9e&icon_color=1f8a9e&text_color=cfe6ee" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jack-zhengyangwang&theme=tokyonight&animation=load" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jack-zhengyangwang&theme=tokyonight&animation=load" height="165" alt="Most committed languages" />
 <img src="https://streak-stats.demolab.com?user=jack-zhengyangwang&theme=tokyonight&hide_border=true&background=0b1d2a&ring=1f8a9e&fire=1f8a9e&currStreakLabel=1f8a9e" height="165" alt="Contribution streak" />
 
 </div>
