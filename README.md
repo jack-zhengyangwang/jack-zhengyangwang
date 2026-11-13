@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2a,45:143d59,100:1f8a9e&height=210&section=header&text=Jack%20Wang&fontSize=64&fontColor=f4f7fa&fontAlignY=38&desc=Data%20Science%20%C3%97%20Economics-Accounting%20%C2%B7%20Claremont%20McKenna%20College%20'27&descSize=18&descAlignY=58&descColor=cfe6ee&animation=fadeIn" width="100%" alt="Jack Wang. Data Science and Economics-Accounting, Claremont McKenna College, class of 2027" />
 
-<a href="https://github.com/jack-zhengyangwang"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3400&pause=1000&color=1F8A9E&center=true&vCenter=true&width=640&lines=I+build+research+systems+for+markets.;I+test+the+idea+before+I+trust+it.;Negative+results+get+written+up+too.;Graduating+May+2027+%C2%B7+open+to+full-time+analyst+and+quant+roles" alt="I build research systems for markets. I test the idea before I trust it. Negative results get written up too. Graduating May 2027, open to full-time analyst and quant roles." /></a>
+<a href="https://github.com/jack-zhengyangwang"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3400&pause=1000&color=1F8A9E&center=true&vCenter=true&width=640&lines=I+build+research+systems+for+markets.;I+test+the+idea+before+I+trust+it.;Negative+results+get+written+up+too.;Graduating+May+2027.;Open+to+full-time+analyst+and+quant+roles." alt="I build research systems for markets. I test the idea before I trust it. Negative results get written up too. Graduating May 2027. Open to full-time analyst and quant roles." /></a>
 
 <br/>
 
