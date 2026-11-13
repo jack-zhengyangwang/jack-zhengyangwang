@@ -18,9 +18,17 @@ I'm a senior at Claremont McKenna College with a dual major in Data Science and 
 
 <br/>
 
-## Projects
+## Research
 
-### [kalshi-trading](https://github.com/jack-zhengyangwang/kalshi-trading) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/v2.0.0-research%20report-1f8a9e?style=flat-square" alt="v2.0.0 research report" />
+### 1 · [Senior thesis: SURE-tuned covariance shrinkage](https://github.com/jack-zhengyangwang/senior-thesis) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" /> <img src="https://img.shields.io/badge/advisor-Prof.%20Evan%20Rosenman-1f8a9e?style=flat-square" alt="Advisor: Prof. Evan Rosenman" />
+
+Ledoit-Wolf shrinkage estimates a covariance matrix as a blend of the sample covariance and a structured target, and the whole method hinges on one number, the blend weight. My thesis picks that weight by minimizing an exactly unbiased estimate of the risk (Stein's unbiased risk estimate, SURE) instead of the usual asymptotic formula, with Sharpe's single-index model as the target. So far: the Frobenius risk written in SURE form for a general target, an exact distribution-free SURE for the scaled-identity target, a proof that shrinkage reduces risk exactly when the weight sits below twice the oracle value, and simulations against LW, RBLW, and OAS where the SURE-chosen weight tracks the oracle across the whole misspecification curve.
+
+### 2 · Summer Research Program with Prof. Evan Rosenman &nbsp;<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/CMC-May%202025%20%E2%80%93%20present-1f8a9e?style=flat-square" alt="CMC, May 2025 to present" />
+
+Research assistant on shrinkage estimation, the project that grew into the thesis. Derived joint moment generating functions for the estimators under study and built simulation studies in R that compare expected against empirical risk and trace mean-squared-error curves against the true mean.
+
+### 3 · [kalshi-trading: do prediction-market prices beat models?](https://github.com/jack-zhengyangwang/kalshi-trading) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/v2.0.0-research%20report-1f8a9e?style=flat-square" alt="v2.0.0 research report" />
 
 An autonomous research and trading system for soccer markets on Kalshi, a CFTC-regulated prediction market. It discovers every open market live, prices each contract with Poisson and negative-binomial models plus an optional LLM layer, sizes bets with capped Kelly, and evolves a population of strategy agents in a reproducible paper-trading arena. Over 3,500 settled paper bets and two written reports.
 
@@ -44,6 +52,10 @@ Left open: profit on selected bets, non-public information, other market types.
 
 <br/>
 
+<br/>
+
+## Other projects
+
 ### [soccer-quant](https://github.com/jack-zhengyangwang/soccer-quant) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LLM-Claude-d97757?style=flat-square" alt="Claude" />
 
 Dual-model match prediction for the Premier League and Champions League. A machine-learning model trained on match history, xG, form, and squad rotation produces outcome and totals probabilities. A separate LLM pass reads injury news, lineups, and manager changes for context the numbers miss. The two are combined into one prediction with the evidence shown next to it.
@@ -60,12 +72,10 @@ Machine-learning model predicting Valorant round outcomes from in-game state, bu
 
 <br/>
 
-## Research and teaching
+## Teaching and consulting
 
 | Where | What |
 |---|---|
-| **Senior thesis** | Covariance shrinkage for portfolio construction: SURE-tuned Ledoit-Wolf style estimators, compared on out-of-sample risk. |
-| **Research Assistant, Prof. Evan Rosenman (CMC)** | Derived joint moment generating functions and ran simulation studies in R comparing expected against empirical risk. |
 | **Nordic Seafarm** | Project data analyst on a semester-long client engagement through a CMC course. |
 | **Robert Day School of Economics and Finance** | Student teaching assistant for Game Theory, Statistics, Accounting, and Economics. |
 
