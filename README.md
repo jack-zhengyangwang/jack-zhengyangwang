@@ -7,7 +7,7 @@
 <br/>
 
 <a href="mailto:jackzhengyangwang0424@gmail.com"><img src="https://img.shields.io/badge/Email-jackzhengyangwang0424%40gmail.com-1f8a9e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-143d59?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (link coming soon)" /></a>
+<a href="https://www.linkedin.com/in/zhengyangwang0424/"><img src="https://img.shields.io/badge/LinkedIn-zhengyangwang0424-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: zhengyangwang0424" /></a>
 <a href="https://github.com/jack-zhengyangwang?tab=followers"><img src="https://img.shields.io/github/followers/jack-zhengyangwang?style=for-the-badge&logo=github&color=0b1d2a&labelColor=0b1d2a" alt="GitHub followers" /></a>
 
 </div>
