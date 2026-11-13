@@ -54,21 +54,14 @@ Left open: profit on selected bets, non-public information, other market types.
 
 <br/>
 
-## Other projects
+### 4 · [twitter_coronavirus: how a pandemic spread through hashtags](https://github.com/jack-zhengyangwang/twitter_coronavirus) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/MapReduce-1f8a9e?style=flat-square" alt="MapReduce" />
 
-### [soccer-quant](https://github.com/jack-zhengyangwang/soccer-quant) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LLM-Claude-d97757?style=flat-square" alt="Claude" />
+Every geotagged tweet from 2020, run through a Python MapReduce pipeline that counts coronavirus hashtags by language and country, day by day. The daily series below shows the hashtags rising and fading over the year, and the per-country and per-language breakdowns in the repo show the same story told in English, Korean, and a dozen other languages.
 
-Dual-model match prediction for the Premier League and Champions League. A machine-learning model trained on match history, xG, form, and squad rotation produces outcome and totals probabilities. A separate LLM pass reads injury news, lineups, and manager changes for context the numbers miss. The two are combined into one prediction with the evidence shown next to it.
-
-### [CSCI146Project](https://github.com/jack-zhengyangwang/CSCI146Project) &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Data%20Mining-final%20project-1f8a9e?style=flat-square" alt="Data mining final project" />
-
-Machine-learning model predicting Valorant round outcomes from in-game state, built as the final project for a data mining course.
-
-### Private, happy to talk about
-
-- An AI stock research advisor on Alpaca paper trading, with a 600-test suite and a sector-momentum baseline.
-- A personal life dashboard pulling calendar, messages, and trading accounts into one page.
-- A Chrome extension for Kanban task management with Claude built in.
+<div align="center">
+<a href="https://github.com/jack-zhengyangwang/twitter_coronavirus"><img src="https://raw.githubusercontent.com/jack-zhengyangwang/twitter_coronavirus/master/alternative_reduce.png" width="640" alt="Daily count of tweets using each coronavirus hashtag through 2020" /></a>
+<br/><sub>Daily tweets per coronavirus hashtag, 2020.</sub>
+</div>
 
 <br/>
 
