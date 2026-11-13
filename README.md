@@ -14,7 +14,7 @@
 
 <br/>
 
-I'm a senior at Claremont McKenna College double majoring in Data Science and Economics-Accounting. Most of what I build sits where statistics meets a live market: pricing models, position sizing, and the testing harness that decides whether any of it deserves real money. I write up the results either way. Two of my larger projects ended with a clear "no edge here," and I think those reports are the most useful things in this profile.
+I'm a senior at Claremont McKenna College with a dual major in Data Science and Economics-Accounting. Most of what I build sits where statistics meets a live market: pricing models, position sizing, and the testing harness that decides whether any of it deserves real money. I write up the results either way. Two of my larger projects ended with a clear "no edge here," and I think those reports are the most useful things in this profile.
 
 <br/>
 
